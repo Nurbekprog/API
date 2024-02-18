@@ -4,6 +4,7 @@
   ],
   "hints": {
     "css-prefix-order": "off",
-    "compat-api/css": "off"
+    "compat-api/css": "off",
+    "highest-available-document-mode": "off"
   }
 }
